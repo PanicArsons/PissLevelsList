@@ -1,8 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "PanicArsons",
+        "link": "https://www.youtube.com/@PanicArsons"
+    },
+    {
+        "role": "owner",
+        "name": "Soaps",
+        "link": "https://www.youtube.com/@SoapsGD"
     },
     {
         "role": "admin",
